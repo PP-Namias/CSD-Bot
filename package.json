@@ -1,22 +1,16 @@
 {
-  "dependencies": {
-    "eris": "^0.17.1"
-  },
-  "name": "stupid-discord-badge",
+  "name": "niconiconii",
   "version": "1.0.0",
-  "description": "Discord can eat my ass",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "run": "npm i && node ."
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/User9684/stupid-discord-badge.git"
-  },
-  "author": "user#6969",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/User9684/stupid-discord-badge/issues"
-  },
-  "homepage": "https://github.com/User9684/stupid-discord-badge#readme"
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "discord.js": "^13.4.0",
+    "dotenv": "^10.0.0"
+  }
 }
