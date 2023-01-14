@@ -1,16 +1,16 @@
 {
-  "name": "CSD bot",
+  "name": "CSD-Bot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "PP-Namias",
   "license": "ISC",
   "dependencies": {
-    "canvas": "^2.10.2",
-    "discord.js": "^13.4.0",
+    "canvas": "^2.8.0",
+    "discord.js": "^13.12.0",
     "dotenv": "^10.0.0"
   }
 }

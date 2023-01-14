@@ -11,11 +11,10 @@ const client = new Discord.Client({
     ]
 })
 
-
 let bot = {
     client, 
     prefix: "n.",
-    owners: ["683914336376455200"]
+    owners: ["315850603396071424"]
 }
 
 client.commands = new Discord.Collection()
@@ -36,10 +35,9 @@ client.loadButtons(bot, false)
 
 module.exports = bot
 
-/*
-client.on("ready", () => {
-    console.log(`Logged in as ${client.user.tag}`)
-})
+// client.on("ready", () => {
+//     console.log(`Logged in as ${client.user.tag}`)
+// })
 
 client.on("messageCreate", (message) => {
     if (message.content == "hi"){
@@ -47,15 +45,20 @@ client.on("messageCreate", (message) => {
     }
 })
 
-const welcomeChannelId = "1052346489017466900"
-
-client.on("guildMemberAdd", async (member) => {
-    const img = await generateImage(member)
-    member.guild.channels.cache.get(welcomeChannelId).send({
-        content: `<@${member.id}> Welcome to the server!`,
-        files: [img]
-    })
+client.on("messageCreate", (message) => {
+    if (message.content == "ping"){
+        message.reply("pong!")
+    }
 })
-*/
+
+// const welcomeChannelId = "1052346489017466900"
+
+// client.on("guildMemberAdd", async (member) => {
+//     const img = await generateImage(member)
+//     member.guild.channels.cache.get(welcomeChannelId).send({
+//         content: `<@${member.id}> Welcome to the server!`,
+//         files: [img]
+//     })
+// })
 
 client.login(process.env.TOKEN)

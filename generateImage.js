@@ -1,6 +1,6 @@
 const Canvas = require("canvas")
 const Discord = require("discord.js")
-const background = "https://cdn.discordapp.com/attachments/1017757923755180093/1017798769066127421/owa.gif"
+const background = "https://i.imgur.com/zvWTUVu.jpg"
 
 const dim = {
     height: 675,
