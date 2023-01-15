@@ -12,7 +12,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/PP-Namias/CSD-Bot">
-    <img src="https://cdn.discordapp.com/attachments/1045298870533509130/1064103027008606238/CSD_Bot_logo.png" alt="Pbot-plus" width="200" height="200">
+    <img src="https://cdn.discordapp.com/attachments/1045298870533509130/1064103027008606238/CSD_Bot_logo.png" alt="CSD Bot" width="200" height="200">
   </a>
 
   <h3 align="center"><b>CSD Bot</b></h3>
@@ -62,7 +62,7 @@ If you liked this repository, feel free to leave a star ⭐ to motivate me!
 ## <img src="https://cdn.discordapp.com/emojis/1009754836314628146.gif" width="25px" height="25px">》Requirements
 - NodeJs v17+
 - Discord.js v13+
-- Discord Token. Get it from [Discord Developers Portal](https://
+- Discord Token. Get it from [Discord Developers Portal](https://discord.com/developers/applications)
 
 ## <img src="https://cdn.discordapp.com/emojis/814216203466965052.png" width="25px" height="25px">》Installation Guide
 
@@ -85,6 +85,14 @@ node index.js
 ## <img src="https://cdn.discordapp.com/emojis/1036083490292244493.png" width="15px" height="15px">》Support Server
 [![DiscordBanner](https://invidget.switchblade.xyz/ZfjyqFw2Ax)](https://discord.gg/ZfjyqFw2Ax)
 [Support Server](https://discord.gg/ZfjyqFw2Ax) - Discord-Bot's Support Server Invite
+
+## ✨》Donate
+By Donating, You Will Help Me To Maintain This Project 
+- [Patreon](https://www.patreon.com/user?u=56603412)
+- [Ko-fi](https://ko-fi.com/PP_Namias)
+
+## 🔐 License
+Distributed under the MIT License. See [`LICENSE`](https://github.com/PP-Namias/CSD-Bot/blob/main/LICENSE) for more information.
 
 [version-shield]: https://img.shields.io/github/package-json/v/PP-Namias/CSD-Bot?style=for-the-badge
 [version-url]: https://github.com/PP-Namias/CSD-Bot
