@@ -30,17 +30,16 @@
 <!-- NOTICE -->
 
 ### <img src="https://cdn.discordapp.com/emojis/1055803759831294013.png" width="20px" height="20px"> 》Notice 
-> You may not claim this as your own! The original source was created by [PP-Namias](https://github.com/PP-Namias). The source is modified and being updated by me (PP-Namias)
 
-> Discord-Bot is a Multipurpose Discord bot base in [Discord.js](https://github.com/Discordjs/discordjs)
+> CSD Bot is a Multipurpose Discord bot base in [Discord.js](https://github.com/Discordjs/discordjs)
 If you liked this repository, feel free to leave a star ⭐ to motivate me!
 
 <!-- ABOUT THE PROJECT -->
 
-## <img src="https://cdn.discordapp.com/emojis/859424401186095114.png" width="20px" height="20px">》Description 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PP-Namias&repo=CSD-Bot&theme=tokyonight)](https://github.com/PP-Namias/CSD-Bot)
+## <img src="https://cdn.discordapp.com/emojis/859424401186095114.png" width="20px" height="20px"> 》Description 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PP-Namias&repo=CSD-Bot&theme=tokyonight&show_owner=true&hide_border=true)](https://github.com/PP-Namias/CSD-Bot)
 
-## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="20px" height="20px">》Feature
+## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="20px" height="20px"> 》Feature
 - [x] Slash Commands
 - [x] Upto date with Discord.js v13
 - [x] Chat Triggers
@@ -51,7 +50,7 @@ If you liked this repository, feel free to leave a star ⭐ to motivate me!
 - [x] Reaction Roles
 - [x] Easy to use
 
-## <img src="https://cdn.discordapp.com/emojis/1028680849195020308.png" width="25px" height="25px">》Screenshots
+## <img src="https://cdn.discordapp.com/emojis/1028680849195020308.png" width="25px" height="25px"> 》Screenshots
 <br />
 <p align="center">
   <a href="https://github.com/PP-Namias/CSD-Bot">
@@ -59,12 +58,12 @@ If you liked this repository, feel free to leave a star ⭐ to motivate me!
   </a>
 </p>
 
-## <img src="https://cdn.discordapp.com/emojis/1009754836314628146.gif" width="25px" height="25px">》Requirements
+## <img src="https://cdn.discordapp.com/emojis/1009754836314628146.gif" width="25px" height="25px"> 》Requirements
 - NodeJs v17+
 - Discord.js v13+
 - Discord Token. Get it from [Discord Developers Portal](https://discord.com/developers/applications)
 
-## <img src="https://cdn.discordapp.com/emojis/814216203466965052.png" width="25px" height="25px">》Installation Guide
+## <img src="https://cdn.discordapp.com/emojis/814216203466965052.png" width="25px" height="25px"> 》Installation Guide
 
 ### <img src="https://cdn.discordapp.com/emojis/1028680849195020308.png" width="15px" height="15px"> Installing via [NPM](https://www.npmjs.com/)
 Clone the repo by running
@@ -76,13 +75,13 @@ git clone https://github.com/PP-Namias/CSD-Bot.git
 ```bash
 npm install
 ```
-To start your bot 
+To start your bot
 
 ```js
 node index.js
 ```
 
-## <img src="https://cdn.discordapp.com/emojis/1036083490292244493.png" width="15px" height="15px">》Support Server
+## <img src="https://cdn.discordapp.com/emojis/1036083490292244493.png" width="15px" height="15px"> 》Support Server
 [![DiscordBanner](https://invidget.switchblade.xyz/ZfjyqFw2Ax)](https://discord.gg/ZfjyqFw2Ax)
 [Support Server](https://discord.gg/ZfjyqFw2Ax) - Discord-Bot's Support Server Invite
 
@@ -91,7 +90,7 @@ By Donating, You Will Help Me To Maintain This Project
 - [Patreon](https://www.patreon.com/user?u=56603412)
 - [Ko-fi](https://ko-fi.com/PP_Namias)
 
-## 🔐 License
+## 🔐 》License
 Distributed under the MIT License. See [`LICENSE`](https://github.com/PP-Namias/CSD-Bot/blob/main/LICENSE) for more information.
 
 [version-shield]: https://img.shields.io/github/package-json/v/PP-Namias/CSD-Bot?style=for-the-badge
