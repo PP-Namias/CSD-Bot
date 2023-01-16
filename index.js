@@ -52,8 +52,14 @@ client.on("messageCreate", (message) => {
 })
 
 client.on("messageCreate", (message) => {
+    if (message.content == "!ping"){
+        message.reply("<@683914336376455200>")
+    }
+})
+
+client.on("messageCreate", (message) => {
     if (message.content == "cs1asched"){
-        message.reply("https://cdn.discordapp.com/attachments/1018057172711653437/1063708350073806858/CS1A_Sched.png")
+        message.reply("https://cdn.discordapp.com/attachments/1018057172711653437/1064051339430219786/3cs1asched.png")
     }
 })
 
@@ -75,16 +81,20 @@ client.on("messageCreate", (message) => {
     }
 })
 
+client.on("messageCreate", (message) => {
+    if (message.content == "vods 2nd sem"){
+        message.reply("https://www.youtube.com/playlist?list=PL-EDcGHq7b9w0-gjjdQKQvIiaCng388t0")
+    }
+})
+
 // When I started writing this, only God and I understood what I was doing
 // Now, only God knows
 client.on("messageCreate", (message) => {
     if (message.content == "r1"){
-        message.reply("<@&1011206648129409107>, ${user} is recording...")
+        message.reply("<@&1011206648129409107>, ${@683914336376455200} is recording...")
         message.mentions.members
-        message.mentions.members.first().toString()
-        message.reply("<@&1011206648129409107>, ${person.user} is recording...")
+        message.reply("<@&1011206648129409107>, <@683914336376455200> is recording...")
         message.guild.members.cache.get() 
-        `<@${member.id}>`
     }
 })
 
